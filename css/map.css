@@ -1,0 +1,18 @@
+.map-container {
+    width: 60%;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 35px;
+    padding-top: 130px;
+}
+
+path {
+    fill: #eccea7;
+    stroke: #fff;
+    stroke-width: 2px;
+    cursor: pointer;
+}
+
+path:hover {
+    fill: #fa9e27;
+}

@@ -1,0 +1,21 @@
+body {
+    display: grid;
+    height: 100vh;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Public Sans', sans-serif;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+}
+
+
+/* footer */
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
